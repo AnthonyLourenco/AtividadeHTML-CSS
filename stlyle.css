@@ -1,0 +1,19 @@
+.A{
+    background-color: #FFA5FF; width: 500px; height: 500px;
+}
+
+.B{
+    background-color: #F0EAAF; width: 250px; height: 250px;
+}
+
+.paragrafo{
+    color: blue; background-color: purple; font-size: 25px; font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: bold;
+}
+
+.D{
+    width: 50%; height: 50vh; background-color: rgb(173, 0, 230);
+}
+
+.E{
+    width: 75vw; height: 50%; background-color: rgb(255, 230, 100);
+}
